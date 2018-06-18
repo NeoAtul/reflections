@@ -1,3 +1,4 @@
+Why use diff to compare files?
    Since I knew that the HTML was working before the changes were made, I knew
     that the parts that changed had to be the problem.  This allowed me to only
     think about things that were different, rather than trying to think about
